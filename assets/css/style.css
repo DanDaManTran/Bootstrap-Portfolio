@@ -1,0 +1,57 @@
+i{
+	color: black;
+	margin: 0% 5%;
+}
+
+
+p{
+	margin: 1rem;
+	line-height: 2.3rem;
+}
+
+footer{
+	margin-top: 2rem;
+}
+
+.img-rounded{
+	margin: 1rem;
+}
+
+input{
+	margin: 1rem;
+}
+
+input[type="text"] {
+    width: 99%;
+    opacity: 50%;
+}
+
+input[type="message"] {
+    width: 99%;
+    height: 150px;
+    opacity: 50%;
+}
+
+.page-header{
+	border-bottom: thin solid black;
+}
+
+.contact{
+	padding-bottom: 2rem;
+}
+
+.post-content {
+    background: none repeat scroll 0 0 #FFFFFF;
+    opacity: 0.5;
+    margin-top: -9rem; 
+    position: relative;
+    padding: 1rem;
+}
+
+.row{
+	margin-bottom: 3rem;
+}
+
+.panTop{
+	margin-top: 3rem;
+}
